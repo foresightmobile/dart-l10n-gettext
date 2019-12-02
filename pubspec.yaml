@@ -20,7 +20,7 @@ dependencies:
   console_log_handler: '>=1.1.0 <2.0.0'
     # path: /Volumes/Daten/DevLocal/DevDart/ConsoleLogHandler
 
-  intl: ^0.15.0
+  intl: ^0.16.0
   intl_translation: ^0.17.0
 
   validate: ^1.0.0
